@@ -1,0 +1,18 @@
+body{
+    background-color: white;
+}
+body div img{
+    width: 360px;
+    height: 360px;
+}
+
+.p_box1{
+    width: 360px;
+    height: 360px;
+    background-color: aqua;
+    text-align: center;
+    margin: auto;
+}
+.p_box0{
+    text-align: center;
+}
